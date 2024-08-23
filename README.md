@@ -2,7 +2,7 @@
 
 This is a demo of how you can use a CodePen embed as a Figma plugin sandbox.
 
-This functionality currently requires to pens.
+This functionality currently requires two pens.
 
 - The first is a pen that is the embedded editor for the sandbox. It contains some boilerplate code.
   - In this demo, that pen is [codepen.io/jak_e/pen/dyBmqPm/624e81d0cdc8605f9724c2cbac560754](https://codepen.io/jak_e/pen/dyBmqPm/624e81d0cdc8605f9724c2cbac560754)
