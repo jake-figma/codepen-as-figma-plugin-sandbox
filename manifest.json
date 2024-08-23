@@ -1,0 +1,15 @@
+{
+  "name": "CodePen Demo",
+  "id": "012312301239123123124",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "permissions": ["activeusers", "currentuser"],
+  "main": "code.js",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://*.figma.com",
+      "https://cdpn.io",
+      "https://codepen.io"
+    ]
+  }
+}
